@@ -1,6 +1,3 @@
-# iDonor
-
-- Group 6
 # Blood_Donation_Management_System
 - Contributers:
 Buchammagari Raghavendra: 200003022
